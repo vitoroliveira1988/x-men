@@ -8,7 +8,3 @@ Este projeto é um simples aplicativo web que permite ao usuário selecionar um 
 * **CSS:** Estilização da página.
 * **JavaScript:** Interatividade e manipulação do DOM.
 
-## Como Rodar o Projeto
-1. **Clone este repositório:**
-   ```bash
-   git clone https://seu-repositorio.git
